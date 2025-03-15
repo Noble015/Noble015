@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noble015
 - 👀 I’m interested in C++
 - 🌱 I’m currently learning how to develop software ...
-- 💞️ I’m looking to collaborate on c++ expwrties 
+- 💞️ I’m looking to collaborate on c++ experties 
 - 📫 How to reach me at samyvic294@gmail.com
 - 😄 Pronouns: Committed
 - ⚡ Fun fact: i'm ready to learn
