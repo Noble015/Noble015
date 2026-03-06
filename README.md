@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Noble015
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning how to develop software ...
-- 💞️ I’m looking to collaborate on c++ experties 
-- 📫 How to reach me at samyvic294@gmail.com
+- 👀 I’m an experienced frontend and backend developer 
+- 🌱 I’m currently working as a social
+- medial manager 
+- 💞️ I’m looking to collaborate on Full stack experties 
+- 📫 How to reach me at sirjose36@gmail.com
 - 😄 Pronouns: Committed
 - ⚡ Fun fact: i'm ready to learn
 
