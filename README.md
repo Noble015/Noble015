@@ -3,7 +3,7 @@
 - 🌱 I’m currently working as a social
 - medial manager 
 - 💞️ I’m looking to collaborate on Full stack experties 
-- 📫 How to reach me at sirjose36@gmail.com
+- 📫 How to reach me at samyvic294@gmail.com
 - 😄 Pronouns: Committed
 - ⚡ Fun fact: i'm ready to learn
 
