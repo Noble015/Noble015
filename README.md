@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Noble015
 - 👀 I’m an experienced frontend and backend developer 
-- 🌱 I’m currently working as a social
-- medial manager 
+React app (with components)
+API integration project
+UI project (Bootstrap or Tailwind)
 - 💞️ I’m looking to collaborate on Full stack experties 
 - 📫 How to reach me at samyvic294@gmail.com
 - 😄 Pronouns: Committed
